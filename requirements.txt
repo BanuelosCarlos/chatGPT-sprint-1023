@@ -7,3 +7,5 @@ IPython
 pytube
 ipywidgets
 openai
+python-dotenv
+pydub
